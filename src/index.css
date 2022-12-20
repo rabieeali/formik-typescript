@@ -1,0 +1,9 @@
+.form-group {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  border: solid 1px #ebebeb;
+  padding: 1rem;
+  margin: auto;
+}
